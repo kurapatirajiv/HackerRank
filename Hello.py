@@ -1,0 +1,1 @@
+print "Hello guru Python First program ga"

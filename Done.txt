@@ -1,0 +1,43 @@
+ Business Card Title / Posting Title 	Intern
+Job Summary 	NetApp is looking for engineering students to be part of our engineering team designing or testing industry leading storage solutions. As part of NetApp engineering your challenge may be designing or testing components of our highly scalable clustered operating system that supports multiple storage protocols including FCP, iSCSI, CIFS, and NFS. Or it may be designing or testing intuitive management applications for complex heterogeneous enterprise storage systems. Or you may help design and build the high performance hardware platforms for our storage appliances. In any case, you’ll have the opportunity to work for a company consistently rated one of the best places to work, a choice of both technical and management career development tracks, and work in a collaborative engineering environment.
+
+NetApp’s Summer Intern Program is a 3 month summer experience that will provide you an opportunity to gain in depth knowledge about NetApp’s business and culture as you enjoy meeting with organizational leaders during lunch, network with your fellow intern colleagues at various social events, and present your hard work to NetApp executives and management.
+We are looking for summer interns to fill many Software Engineering or QA Engineering internship positions. Employment would begin in the summer of 2016.
+Essential Functions:
+• Construct data structures and algorithms for large scale software systems
+• Write or test high quality code
+• Test and debug code
+• Contribute to feature definition and design
+Job Requirements 	Requirements:
+•Proficiency in at least one programming language. C/C++, Java, Perl, Python etc.
+•Successful completion of one or more operating system courses or related projects is preferred.
+•Strong oral and written communication skills are essential
+•Work collaboratively within a team environment of other engineers to meet aggressive goals and high quality standards
+•Knowledge and experience in specific areas of engineering
+•Proven aptitude for learning new technologies
+•Proficient in technology and development
+•Familiarity of basic concepts of computer architecture, data structures and standard programming practices
+•Follow standard engineering principles and practice
+•Creative and analytical approach to problem solving
+
+Responsibility and Interaction:
+•Responsible for a mix of structured and unstructured tasks
+•Apply attained experiences and knowledge in solving routine to moderately complex problems
+•May work with teams across the company in problem solving and design effort
+Interaction:
+•Interact primarily with direct manager and the technical team on assigned projects. There may be communication with employees in other functions within the Business Unit as required
+•General direction is provided on routine work and detailed direction is provided on new projects and assignments. There will be on-going reviews of activities and priorities
+•Participate as an important contributor to team projects
+Education and Experience 	Education and experience:
+• We are seeking candidates that are pursuing a Bachelor’s, Master’s or Ph.D. degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems or an equivalent degree with a tentative start date of May/June 2016.
+• Passion for writing or testing high quality code
+• Broad knowledge of computer science fundamentals
+Posting Category 	University
+Software Engineering 
+Full time / Part time 	Full-time
+Posting Location 	USA - California - Sunnyvale (Corporate Headquarters)
+USA - Colorado - Boulder
+USA - Kansas - Wichita
+USA - Massachusetts - Waltham
+USA - North Carolina - Research Triangle Park
+USA - Pennsylvania - Cranberry Township
