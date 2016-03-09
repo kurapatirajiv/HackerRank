@@ -1,5 +1,6 @@
 # https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+# Didnot use the actual decorators 
 from __future__ import print_function
 phDir = []
 postDecPhDir = []
