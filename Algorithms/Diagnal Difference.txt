@@ -1,0 +1,17 @@
+#!/bin/python3
+# https://www.hackerrank.com/challenges/diagonal-difference
+import sys
+n = int(input().strip())
+a = []
+for a_i in range(n):
+    a_t = [int(a_temp) for a_temp in input().strip().split(' ')]
+    a.append(a_t)
+d1,d2=0,0
+for i in range(n):
+    # Counting the diagnal elements from left to right
+    d1 = d1 + a[i][i]
+    # Counting the diagnal elements from right to left
+    d2 = d2 + a[i][n-i-1]
+# Printing the Absolute difference
+print (abs(d1-d2))
+    
